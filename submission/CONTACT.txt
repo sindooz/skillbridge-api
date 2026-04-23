@@ -1,0 +1,6 @@
+Name: Sindu Manjunath Madiwal
+Email: sindumadiwal@gmail.com
+Phone: 9242106735
+GitHub: https://github.com/sindooz
+
+Challenge: Handling JWT authentication and role-based access control was the most challenging part.
